@@ -1,0 +1,47 @@
+[
+    {
+        "amount": 200,
+        "category": "Salary",
+        "description": "Monthly Wages"
+    },
+    {
+        "amount": 375,
+        "category": "Student Loan",
+        "description": "Monthly Loan Avg"
+    },
+    {
+        "amount": 400,
+        "category": "Help",
+        "description": "Thank God"
+    },
+    {
+        "amount": -800,
+        "category": "Rent",
+        "description": "Monthly Rent"
+    },
+    {
+        "amount": 200,
+        "category": "Help",
+        "description": "Thank God"
+    },
+    {
+        "amount": -30,
+        "category": "Entertainment",
+        "description": "Phone Contract"
+    },
+    {
+        "amount": -150,
+        "category": "Food",
+        "description": "Groceries"
+    },
+    {
+        "amount": -100,
+        "category": "Food",
+        "description": "Drinks Out"
+    },
+    {
+        "amount": -50,
+        "category": "Misc",
+        "description": "Extra Expenses"
+    }
+]
